@@ -1,0 +1,47 @@
+A<html>
+<title>CULTURE SUB</title>
+<body>
+<style>
+a {
+color:skyblue;
+text-decoration:none;
+}
+a:hover {
+color:deeppink;
+}
+</style>
+
+<Style Type="text/css">
+<!--
+body{
+background-image:url(12.jpg);
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:center;
+}
+-->
+</style>
+
+<br>
+<BR>
+<font face="Aharoni" size=5>
+<br>
+<BR>
+<CENTER><a href="WHAT TO SEE.html" target="HISTORY">WHAT TO SEE</a>
+
+<BR>
+<br>
+
+
+<CENTER><a href="DANCE SUB.html" target="HOMESUB"   onclick="parent.HISTORY.location='PAKAWKAW.html'">ETHNIC GROUP </a> 
+
+<CENTER><a href="HOUSE SUB.html" target="HOMESUB"   onclick="parent.HISTORY.location='BONTOC HOUSE.html'">ETHNIC GROUP </a>  
+<BR>
+<br>
+
+
+
+</font>
+</center>
+</body>
+</html>
